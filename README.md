@@ -1,4 +1,4 @@
-Quick Task Timer 
+Quick Task Timer (React)
 
 Pomodoro clock + Todo List 
 
