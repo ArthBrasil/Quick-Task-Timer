@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quick-Task-Timer/static/css/main.d8448e06.css",
+    "main.js": "/Quick-Task-Timer/static/js/main.a7b66b66.js",
+    "static/js/787.828b7893.chunk.js": "/Quick-Task-Timer/static/js/787.828b7893.chunk.js",
+    "index.html": "/Quick-Task-Timer/index.html",
+    "main.d8448e06.css.map": "/Quick-Task-Timer/static/css/main.d8448e06.css.map",
+    "main.a7b66b66.js.map": "/Quick-Task-Timer/static/js/main.a7b66b66.js.map",
+    "787.828b7893.chunk.js.map": "/Quick-Task-Timer/static/js/787.828b7893.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8448e06.css",
+    "static/js/main.a7b66b66.js"
+  ]
+}
