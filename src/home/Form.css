@@ -1,0 +1,76 @@
+
+
+.insertNewTask {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    align-items: center;
+box-sizing: border-box;
+background: transparent ;
+box-sizing: border-box;
+opacity: 0.9;
+border: none;
+border-bottom: 1px solid #F2F2F2;
+margin-top: 20px;
+}
+
+
+.toDoInput{
+
+    background: transparent ;
+    box-sizing: border-box;
+ opacity: 0.9;
+ border: none;
+ outline: none;
+ color: #F2F2F2;
+ 
+ font-size: 32px;
+ padding-bottom: 10px;
+ text-align: center;
+
+}
+::placeholder{
+    color: #F2F2F2;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+select {
+    margin-top: 1.2rem;
+    background: transparent;
+    box-sizing: border-box;
+    border: none;
+    opacity: 0.9;
+    border-bottom: 1px solid #F2F2F2;
+    outline: none;
+    color: #F2F2F2;
+    cursor: pointer;
+    width: 210px;
+    font-size: 24px ;
+    text-align: center;
+    padding: 5px;
+}
+option {
+    
+    outline: none;
+    border: none;
+    background-color: #425664;
+    cursor: pointer;
+}
+
+
+
+button{
+    border: none;
+    background: transparent;
+    color: #F2F2F2;
+    cursor: pointer;
+   
+}
+
+.fa-regular.fa-plus.fa-2x {
+    font-size: 1.9rem;
+    padding-bottom: 10px;
+    
+}
